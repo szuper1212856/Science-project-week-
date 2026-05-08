@@ -1,2 +1,2 @@
-# Science-project-week-
-This is a website where I can log the logbooks and other necessary needs. 
+# Boggyo és baboca benedeknek
+This is a website where Benedek can watch Bogyo És baboca to prapeare himself for the cinema
